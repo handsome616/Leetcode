@@ -12,5 +12,6 @@
   * [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)
   * [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 
-* 有點檢單
-* 
+* 有點簡單
+  * [LCP 01. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)
+  * [1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
