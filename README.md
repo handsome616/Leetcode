@@ -11,6 +11,7 @@
   * [429. N 叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
   * [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)
   * [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
+  * [515. 在每个树行中找最大值](https://leetcode-cn.com/submissions/detail/140348931/)
 * Link List
   * [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
   * [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
@@ -38,6 +39,9 @@
   * [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
   * [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)
   * [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
+  * [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
+  * [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
+  * [1464. 数组中两元素的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/)
 * 有點簡單
   * [LCP 01. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)
   * [1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
