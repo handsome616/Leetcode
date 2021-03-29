@@ -1,7 +1,7 @@
 # Leetcode
 單純記錄刷題
 
-* Tree((#Tree)
+* [Tree]((#Tree)
   * [94.  二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
   * [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
   * [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
