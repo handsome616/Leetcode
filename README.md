@@ -34,9 +34,10 @@
   * [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
   * [1720. 解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/)
   * [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)
-* 數學
+* 數學 & Array
   * [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
   * [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)
+  * [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
 * 有點簡單
   * [LCP 01. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)
   * [1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
