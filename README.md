@@ -13,6 +13,7 @@
   * [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 * 位元運算
   * [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/) 
+  * [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
   * [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)
   * [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)
   * [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)
@@ -21,6 +22,8 @@
   * [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
   * [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
   * [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)
+* 數學
+ * [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
 * 有點簡單
   * [LCP 01. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)
   * [1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
