@@ -24,7 +24,8 @@
   * [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
   * [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 * 位元運算
-  * [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/) 
+  * [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
+  * [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) 
   * [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
   * [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)
   * [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)
