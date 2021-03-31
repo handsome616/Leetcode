@@ -23,6 +23,7 @@
   * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
   * [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
   * [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+  * [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 * 位元運算
   * [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
   * [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) 
