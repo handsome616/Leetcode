@@ -12,6 +12,11 @@
   * [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)
   * [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
   * [515. 在每个树行中找最大值](https://leetcode-cn.com/submissions/detail/140348931/)
+* Stack & Queue
+  * [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
+  * [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+  * [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+  * [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
 * Link List
   * [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
   * [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
