@@ -55,3 +55,4 @@
 * 有點簡單
   * [LCP 01. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)
   * [1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
+  * [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)
