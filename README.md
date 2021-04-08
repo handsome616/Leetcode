@@ -26,6 +26,8 @@
   * [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
   * [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
   * [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+  * [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+  * [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
   * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
   * [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
   * [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
