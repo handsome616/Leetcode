@@ -52,6 +52,14 @@
   * [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
   * [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
   * [1464. 数组中两元素的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/)
+* 字串
+  * [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
+  * [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
+  * [541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/)
+  * [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/submissions/detail/151260295/)
+  * [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+  * [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
+  * [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
 * 有點簡單
   * [LCP 01. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)
   * [1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
